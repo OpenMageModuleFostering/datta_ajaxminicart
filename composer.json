@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Datta_Ajaxminicart",
+    "name": "OpenMageModuleFostering\/Datta_Ajaxminicart",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
     "description": "Mini cart with ajax, Ajax mini cart, ajax add to cart, Mini cart ajax",
     "authors": [
-    {
-        "name": "Dattatray Yadav",
-        "email": "dattayadav03@gmail.com"
-    }
-],
+        {
+            "name": "Dattatray Yadav",
+            "email": "dattayadav03@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
