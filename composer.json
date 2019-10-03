@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Datta_Ajaxminicart",
+    "name": "openmage-module-fostering\/datta_ajaxminicart",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Mini cart with ajax, Ajax mini cart, ajax add to cart, Mini cart ajax",
     "authors": [
